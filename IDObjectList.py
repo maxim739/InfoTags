@@ -1,0 +1,1 @@
+objectdict = {1: 'Shoe', 2: 'Toothpaste', 3: 'Lotion', 4: 'Coffee', 5: 'Washing Machine'}

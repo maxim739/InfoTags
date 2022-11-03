@@ -12,5 +12,5 @@ And perhaps the directions to the desined location
 
 To do this I needed to create a formatting system for this information with 0's and 1's, and then convert that binary string into an image
 
-There are a few possible formats for this image, and I will need to do some troubleshooting to find which one is the best
+There are a few possible formats for this image, and I will need to do some troubleshooting to find which one is the best for an object recognition model running on my Jetson Nano with a camera.
  
